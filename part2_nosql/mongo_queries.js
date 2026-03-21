@@ -1,7 +1,6 @@
 
 // Part 2: NoSQL — MongoDB Operations (OP1 to OP5)
 // Database: Product_Catalog
-// Collection: products
 // ============================================================
 
 use("Product_Catalog");
