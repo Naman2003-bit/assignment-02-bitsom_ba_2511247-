@@ -1,11 +1,9 @@
-USE retail_dw;
-
 -- ============================================================
--- dw_queries.sql
 -- Part 3: Data Warehouse — Analytical Queries (Q1 to Q3)
 -- Database: retail_dw
 -- ============================================================
 
+USE retail_dw;
 
 -- Q1: Total sales revenue by product category for each month
 SELECT
