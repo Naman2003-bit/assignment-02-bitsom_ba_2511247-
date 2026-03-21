@@ -1,12 +1,10 @@
-CREATE DATABASE IF NOT EXISTS retail_db;
-USE retail_db;
 -- ============================================================
--- schema_design.sql
 -- Part 1: RDBMS — Normalized Schema (3NF)
 -- Source: orders_flat.csv
 -- Tables: customers, products, sales_reps, orders
 -- ============================================================
-
+CREATE DATABASE IF NOT EXISTS retail_db;
+USE retail_db;
 -- Drop tables in reverse FK dependency order 
 DROP TABLE IF EXISTS orders;
 DROP TABLE IF EXISTS customers;
