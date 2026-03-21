@@ -1,5 +1,4 @@
 -- ============================================================
--- star_schema.sql
 -- Part 3: Data Warehouse — Star Schema
 -- Source: retail_transactions.csv
 -- Tables: dim_date, dim_store, dim_product, fact_sales
