@@ -1,12 +1,10 @@
 -- ============================================================
--- queries.sql
 -- Part 1: RDBMS — SQL Queries (Q1 to Q5)
 -- Database: retail_db
 -- Tables used: customers, products, sales_reps, orders
 -- ============================================================
 
 USE retail_db;
-
 
 -- ============================================================
 -- Q1: List all customers from Mumbai along with their
